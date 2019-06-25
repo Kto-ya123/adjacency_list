@@ -1,0 +1,38 @@
+﻿  Source.cpp
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(509): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(507): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(43): note: см. ссылку на создание экземпляров функции шаблон при компиляции "IteratorEdgeIncidentVertex<T> AdgList<T>::ibegin(T)"
+          with
+          [
+              T=std::string
+          ]
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(9): note: см. ссылку на создание экземпляров класса шаблон при компиляции "AdgList<std::string>"
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(409): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(408): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(26): note: см. ссылку на создание экземпляров функции шаблон при компиляции "bool AdgList<std::string>::checkVertex(T)"
+          with
+          [
+              T=std::string
+          ]
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(349): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(346): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(22): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void AdgList<std::string>::deleteEdge(int,int)"
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(318): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(315): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(17): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void AdgList<std::string>::addEdge(int,int)"
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(301): warning C4018: >: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(296): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(10): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void AdgList<std::string>::addVertex(T,int,...)"
+          with
+          [
+              T=std::string
+          ]
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(308): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\header.h(591): warning C4018: <: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\pvis_lab_4\pvis_lab_4\source.cpp(15): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::ostream &operator <<<T>(std::ostream &,const AdgList<T> &)"
+          with
+          [
+              T=std::string
+          ]
+  pvis_lab_4.vcxproj -> F:\Visual Studio Project\Projects\pvis_lab_4\Debug\pvis_lab_4.exe
+  pvis_lab_4.vcxproj -> F:\Visual Studio Project\Projects\pvis_lab_4\Debug\pvis_lab_4.pdb (Partial PDB)
